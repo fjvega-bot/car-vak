@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Nissan Versa 2020",
+    "precio": "$180,000",
+    "imagen": "https://source.unsplash.com/400x300/?nissan,car"
+  },
+  {
+    "nombre": "Toyota Corolla 2019",
+    "precio": "$200,000",
+    "imagen": "https://source.unsplash.com/400x300/?toyota,car"
+  },
+  {
+    "nombre": "Honda Civic 2018",
+    "precio": "$190,000",
+    "imagen": "https://source.unsplash.com/400x300/?honda,car"
+  },
+  {
+    "nombre": "Mazda 3 2021",
+    "precio": "$230,000",
+    "imagen": "https://source.unsplash.com/400x300/?mazda,car"
+  }
+]
