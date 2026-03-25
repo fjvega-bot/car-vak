@@ -5,24 +5,47 @@ body {
   color: white;
 }
 
+/* HEADER */
 header {
   text-align: center;
   padding: 20px;
   background: linear-gradient(90deg, #1e3a8a, #2563eb);
 }
 
-.filtros {
-  text-align: center;
-  margin: 20px;
+/* 🔥 MENÚ PRO */
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background: rgba(2, 6, 23, 0.8);
+  padding: 15px;
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
-input {
-  padding: 10px;
-  width: 60%;
+.menu a {
+  color: #e2e8f0;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 8px 15px;
   border-radius: 10px;
-  border: none;
+  transition: all 0.3s ease;
 }
 
+.menu a:hover {
+  background: #2563eb;
+  color: white;
+  transform: translateY(-2px);
+}
+
+.menu a.active {
+  background: #22c55e;
+  color: black;
+}
+
+/* GRID */
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -30,20 +53,21 @@ input {
   padding: 20px;
 }
 
+/* CARDS */
 .card {
   background: #1e293b;
   border-radius: 15px;
   overflow: hidden;
-  transition: transform 0.3s;
+  transition: all 0.3s ease;
 }
 
 .card:hover {
-  transform: scale(1.05);
+  transform: translateY(-10px) scale(1.03);
 }
 
 .card img {
   width: 100%;
-  height: 160px;
+  height: 200px;
   object-fit: cover;
 }
 
