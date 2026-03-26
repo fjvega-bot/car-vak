@@ -3,30 +3,30 @@
     "nombre": "Nissan Versa 2020",
     "precio": "$180,000 MXN",
     "categoria": "sedan",
-    "imagen": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80"
+    "imagen": "https://cdn.buttercms.com/M7sN1DfQ0i9aTfHg7dCw"
   },
   {
     "nombre": "VW Golf 2019",
     "precio": "$210,000 MXN",
     "categoria": "hatchback",
-    "imagen": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=800&q=80"
+    "imagen": "https://www.speed-horse.mx/wp-content/uploads/2019/05/golf_2019_00.jpg"
   },
   {
     "nombre": "Ford Lobo 2021",
     "precio": "$450,000 MXN",
     "categoria": "camioneta",
-    "imagen": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=800&q=80"
+    "imagen": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_17c3a42451f9407cb6c127afc777af96.jpg"
   },
   {
     "nombre": "Yamaha R6",
     "precio": "$220,000 MXN",
     "categoria": "moto",
-    "imagen": "https://images.unsplash.com/photo-1558980664-10f9d3b9d1a6?auto=format&fit=crop&w=800&q=80"
+    "imagen": "https://www.motoscortes.com/wp-content/uploads/2024/07/2024-Yamaha-YZF600R6R-MOTOS-CORTES.webp"
   },
   {
     "nombre": "BMW M4",
     "precio": "$1,200,000 MXN",
     "categoria": "deportivo",
-    "imagen": "https://images.unsplash.com/photo-1555215695-3004980ad54d?auto=format&fit=crop&w=800&q=80"
+    "imagen": "https://fotos.quecochemecompro.com/bmw-m4-coupe/38482839.jpg?size=750x400"
   }
 ]
